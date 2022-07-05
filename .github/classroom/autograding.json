@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "Test 1",
+      "setup": "npm install prompt",
+      "run": "node task-xxx/main.js",
+      "input": "2",
+      "output": "2 sek\r\n1 sek\r\n0 sek",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 100
+    },
+    {
+      "name": "Test 2",
+      "setup": "npm install prompt",
+      "run": "node task-xxx/main.js",
+      "input": "2,7",
+      "output": "3\r\n5\r\n7",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 100
+    }
+  ]
+}
