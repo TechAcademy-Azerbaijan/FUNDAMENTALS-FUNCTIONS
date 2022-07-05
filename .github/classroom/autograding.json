@@ -44,8 +44,8 @@
       "name": "Task 4",
       "setup": "npm install prompt",
       "run": "node task-4/main.js",
-      "input": "4",
-      "output": "5",
+      "input": "6",
+      "output": "8",
       "comparison": "included",
       "timeout": 10,
       "points": 100
