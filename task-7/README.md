@@ -1,4 +1,4 @@
-# TapşırığınBaşlığı 🎯
+# Ədədlərin kvadratı 🎯
 
 Sizdən aşağıdakı tapşırığı həll etmək tələb olunur. Əvvəlcə tapşırığın şərtini oxumağı unutmayın.
 
@@ -6,9 +6,8 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırıqları həll etmək üçün bilməli olduğunuz mövzular
 
-* Data tipləri
-* Verilənlər (variables)
-* Giriş əmri (input)
+* Funksiyalar
+* Object Tipi və metodlar
 
 **Yekun qeydlər**: 
 
@@ -19,13 +18,16 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırığın şərti
 
-SomeText
+n-dən böyük olmayan natural ədədlərin kvadratlarının siyahısını çap edin.
+
 
 #### Giriş verilənləri
-SomeText
+Natural n (n ≤ 10^9) ədədi.
+
 
 #### Çıxış verilənləri
-SomeText
+n-dən böyük olmayan nataural ədədlərin kvadratlarının siyahısını artma ardıcıllığında çap edin.
+
 
 ---
 
@@ -35,18 +37,35 @@ SomeText
 
 ---
 
-**Giriş verilənləri** 
+**Giriş verilənləri 1** 
 
 ```
-xxx
+10
 ```
 
-**Çıxış verilənləri**
+**Çıxış verilənləri 1**
 
 ```
-xxx
+1
+4
+9
 ```
 
+
+**Giriş verilənləri 2** 
+
+```
+20
+```
+
+**Çıxış verilənləri 2**
+
+```
+1
+4
+9
+16
+```
 
 ---
 

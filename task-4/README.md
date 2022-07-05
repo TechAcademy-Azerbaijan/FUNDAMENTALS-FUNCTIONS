@@ -1,4 +1,4 @@
-# TapşırığınBaşlığı 🎯
+# Fibonaççi 🎯
 
 Sizdən aşağıdakı tapşırığı həll etmək tələb olunur. Əvvəlcə tapşırığın şərtini oxumağı unutmayın.
 
@@ -6,9 +6,8 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırıqları həll etmək üçün bilməli olduğunuz mövzular
 
-* Data tipləri
-* Verilənlər (variables)
-* Giriş əmri (input)
+* Funksiyalar
+* Object Tipi və metodlar
 
 **Yekun qeydlər**: 
 
@@ -19,13 +18,18 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırığın şərti
 
-SomeText
+Fibonaççi ədədləri aşağıdakı düsturla verilmiş F(n) funksiyasıdır:
+
+F(0) = 1, F(1) = 1, F(n) = F(n - 1) + F(n - 2).
+
+n ədədi verilir. n-ci Fibonaççi ədədini verməli.
 
 #### Giriş verilənləri
-SomeText
+Giriş faylında mənfi olmayan n ≤ 45 ədədi – Fibonaççi ədədinin nömrəsi verilir.
 
 #### Çıxış verilənləri
-SomeText
+Çıxış faylına n-ci Fibonaççi ədədini verməli.
+
 
 ---
 
@@ -38,13 +42,13 @@ SomeText
 **Giriş verilənləri** 
 
 ```
-xxx
+4
 ```
 
 **Çıxış verilənləri**
 
 ```
-xxx
+5
 ```
 
 

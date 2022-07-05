@@ -1,4 +1,4 @@
-# TapşırığınBaşlığı 🎯
+# Dördündən ən böyüyü 🎯
 
 Sizdən aşağıdakı tapşırığı həll etmək tələb olunur. Əvvəlcə tapşırığın şərtini oxumağı unutmayın.
 
@@ -6,9 +6,9 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırıqları həll etmək üçün bilməli olduğunuz mövzular
 
-* Data tipləri
-* Verilənlər (variables)
-* Giriş əmri (input)
+* Funksiyalar
+* Object Tipi və metodlar
+
 
 **Yekun qeydlər**: 
 
@@ -19,13 +19,15 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırığın şərti
 
-SomeText
+Dörd a, b, c, d ədədləri verilmişdir. Onlardan ən böyüyünü tapın.
+
 
 #### Giriş verilənləri
-SomeText
+Modulca 1000-i aşmayan dörd tam ədəd.
+
 
 #### Çıxış verilənləri
-SomeText
+Dördündən ən böyüyünü çap edin.
 
 ---
 
@@ -38,13 +40,13 @@ SomeText
 **Giriş verilənləri** 
 
 ```
-xxx
+1,2,3,4
 ```
 
 **Çıxış verilənləri**
 
 ```
-xxx
+4
 ```
 
 

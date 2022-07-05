@@ -1,4 +1,4 @@
-# TapşırığınBaşlığı 🎯
+# Tərs çevir 🎯
 
 Sizdən aşağıdakı tapşırığı həll etmək tələb olunur. Əvvəlcə tapşırığın şərtini oxumağı unutmayın.
 
@@ -6,9 +6,8 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırıqları həll etmək üçün bilməli olduğunuz mövzular
 
-* Data tipləri
-* Verilənlər (variables)
-* Giriş əmri (input)
+* Funksiyalar
+* Object Tipi və metodlar
 
 **Yekun qeydlər**: 
 
@@ -19,13 +18,16 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırığın şərti
 
-SomeText
+Ədədlər massivini tərs çevirin.
+
 
 #### Giriş verilənləri
-SomeText
+İlk sətirdə massivin elementlərinin n (1 ≤ n ≤ 900) sayı verilir. Növbəti n sətrin hər birində bir ədəd verilir. Bütün ədədlər modulca 10^5-i aşmayan tam ədədlərdir.
+
 
 #### Çıxış verilənləri
-SomeText
+Tərs çevrilmiş massivin n sayda elementlərini çap edin.
+
 
 ---
 
@@ -38,13 +40,16 @@ SomeText
 **Giriş verilənləri** 
 
 ```
-xxx
+92846,96841,33582,25998
 ```
 
 **Çıxış verilənləri**
 
 ```
-xxx
+25998
+33582
+96841
+92846
 ```
 
 

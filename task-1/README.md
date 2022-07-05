@@ -1,4 +1,4 @@
-# TapşırığınBaşlığı 🎯
+# Kompakt disklər 🎯
 
 Sizdən aşağıdakı tapşırığı həll etmək tələb olunur. Əvvəlcə tapşırığın şərtini oxumağı unutmayın.
 
@@ -6,9 +6,8 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırıqları həll etmək üçün bilməli olduğunuz mövzular
 
-* Data tipləri
-* Verilənlər (variables)
-* Giriş əmri (input)
+* Funksiyalar
+* Object Tipi və metodlar
 
 **Yekun qeydlər**: 
 
@@ -19,13 +18,16 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırığın şərti
 
-SomeText
+Təmiz kompakt disklər üç cür qablaşdırılmış şəkildə satılır. 100 disk olan qabın qiyməti 100 manat, 20 disk olanın qiyməti 30 manat və 1 disk isə 2 manatdır. n belə disk almaq üçün ən azı nə qədər pul sərf etmək lazımdır?
+
 
 #### Giriş verilənləri
-SomeText
+Yeganə n ədədi - diskləri sayı. n naturaldır və qiyməti mütləq qiymətcə 1000-dən böyük deyildir.
+
 
 #### Çıxış verilənləri
-SomeText
+Axtarılan ən az məbləğ, manatla.
+
 
 ---
 
@@ -38,13 +40,13 @@ SomeText
 **Giriş verilənləri** 
 
 ```
-xxx
+123
 ```
 
 **Çıxış verilənləri**
 
 ```
-xxx
+136
 ```
 
 

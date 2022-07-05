@@ -1,4 +1,4 @@
-# TapşırığınBaşlığı 🎯
+# Sadə ədəd 🎯
 
 Sizdən aşağıdakı tapşırığı həll etmək tələb olunur. Əvvəlcə tapşırığın şərtini oxumağı unutmayın.
 
@@ -6,9 +6,10 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırıqları həll etmək üçün bilməli olduğunuz mövzular
 
-* Data tipləri
-* Verilənlər (variables)
-* Giriş əmri (input)
+* Funksiyalar
+* Object Tipi və metodlar
+
+
 
 **Yekun qeydlər**: 
 
@@ -19,13 +20,16 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırığın şərti
 
-SomeText
+Verilən ədədin sadə olub olmadığını təyin etmək tələb olunur. Sadə ədədin 1-dən və özündən başqa böləni olmur.
+
 
 #### Giriş verilənləri
-SomeText
+32 mərtəbəli n natural ədədi verilir.
+
 
 #### Çıxış verilənləri
-SomeText
+Ədəd sadədirsə çıxışa "Yes", əks halda "No" sözünü verin.
+
 
 ---
 
@@ -35,18 +39,30 @@ SomeText
 
 ---
 
-**Giriş verilənləri** 
+**Giriş verilənləri 1** 
 
 ```
-xxx
+5
 ```
 
-**Çıxış verilənləri**
+**Çıxış verilənləri 1**
 
 ```
-xxx
+Yes
 ```
 
+
+**Giriş verilənləri 2** 
+
+```
+12
+```
+
+**Çıxış verilənləri 2**
+
+```
+No
+```
 
 ---
 

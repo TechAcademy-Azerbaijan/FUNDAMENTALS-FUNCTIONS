@@ -1,4 +1,4 @@
-# Midterm exam 🎯
+# Funksiyalar, Object Tipi və metodlar 🎯
 
 Sizdən **task-[id]** qovluqlarında yerləşən müvafiq tapşırıqları həll etmək tələb olunur. Tapşırıq şərtləri ilə qovluqlara daxil olaraq tanış ola bilərsiniz. :information_source:
 

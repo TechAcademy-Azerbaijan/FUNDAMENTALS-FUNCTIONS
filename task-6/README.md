@@ -1,4 +1,4 @@
-# TapşırığınBaşlığı 🎯
+# Düzbucaqlının sahəsi 🎯
 
 Sizdən aşağıdakı tapşırığı həll etmək tələb olunur. Əvvəlcə tapşırığın şərtini oxumağı unutmayın.
 
@@ -6,9 +6,8 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırıqları həll etmək üçün bilməli olduğunuz mövzular
 
-* Data tipləri
-* Verilənlər (variables)
-* Giriş əmri (input)
+* Funksiyalar
+* Object Tipi və metodlar
 
 **Yekun qeydlər**: 
 
@@ -19,13 +18,16 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırığın şərti
 
-SomeText
+Düzbucaqlının sahəsini hesablayın.
+
 
 #### Giriş verilənləri
-SomeText
+Düzbucaqlının tamqiymətli a və b (1 ≤ a, b ≤ 1000) tərəfləri.
 
 #### Çıxış verilənləri
-SomeText
+Düzbucaqlının sahəsini ekrana çıxardın.
+
+
 
 ---
 
@@ -38,13 +40,13 @@ SomeText
 **Giriş verilənləri** 
 
 ```
-xxx
+3,4
 ```
 
 **Çıxış verilənləri**
 
 ```
-xxx
+12
 ```
 
 

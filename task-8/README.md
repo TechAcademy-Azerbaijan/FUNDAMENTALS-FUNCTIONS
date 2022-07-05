@@ -1,4 +1,4 @@
-# TapşırığınBaşlığı 🎯
+# Böyük hasil 🎯
 
 Sizdən aşağıdakı tapşırığı həll etmək tələb olunur. Əvvəlcə tapşırığın şərtini oxumağı unutmayın.
 
@@ -6,9 +6,9 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırıqları həll etmək üçün bilməli olduğunuz mövzular
 
-* Data tipləri
-* Verilənlər (variables)
-* Giriş əmri (input)
+* Funksiyalar
+* Object Tipi və metodlar
+
 
 **Yekun qeydlər**: 
 
@@ -19,13 +19,18 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırığın şərti
 
-SomeText
+Münsiflər heyyəti qərara gəldi ki, sizə çətin bir tapşırıq versin. Tapşırığa əsasən a və b ədədləri verilir və siz a * (a + 1) * ... * b hasilini hesablamalısınız.
+
+Daha sonra onlar bu tapşırığın sıxıcı olacağını düşünüb, hasilin yerinə onun işarəsini soruşmaq qərarına gəldilər. Belə ki, sizdən bu hasilin mənfi, müsbət və ya sıfıra bərabər olduğunu təyin etmək tələb olunur.
 
 #### Giriş verilənləri
-SomeText
+Yeganə sətirdə iki tam ədəd a və b (-10^9 ≤ a ≤ b ≤ 10^9) verilir.
+
+
 
 #### Çıxış verilənləri
-SomeText
+Çıxışa a * (a + 1) * ... * b ifadəsinin işarəsinə uyğun olaraq "-1", "0", "1" ədədlərindən birini verin.
+
 
 ---
 
@@ -35,16 +40,29 @@ SomeText
 
 ---
 
-**Giriş verilənləri** 
+**Giriş verilənləri 1** 
 
 ```
-xxx
+3,5
 ```
 
-**Çıxış verilənləri**
+**Çıxış verilənləri 1**
 
 ```
-xxx
+1
+```
+
+
+**Giriş verilənləri 2** 
+
+```
+-6,5
+```
+
+**Çıxış verilənləri 2**
+
+```
+0
 ```
 
 
