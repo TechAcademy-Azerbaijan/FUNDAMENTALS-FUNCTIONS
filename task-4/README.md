@@ -35,20 +35,20 @@ Giriş faylında mənfi olmayan n ≤ 45 ədədi – Fibonaççi ədədinin nöm
 
 :clock2: Zaman məhdudiyyəti 1 saniyə
 
-:floppy_disk: Yaddaşı istafadə məhdudiyyəti 128 MiB
+:floppy_disk: Yaddaşı istafadə məhdudiyyəti 12MiB
 
 ---
 
 **Giriş verilənləri** 
 
 ```
-4
+6
 ```
 
 **Çıxış verilənləri**
 
 ```
-5
+8
 ```
 
 
