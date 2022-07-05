@@ -1,6 +1,6 @@
 name: GitHub Classroom Workflow
 
-on: [pull_request]
+on: [push]
 
 permissions:
   checks: write
